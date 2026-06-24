@@ -3,7 +3,7 @@
 Este repositório foi criado para registrar a minha evolução prática no Bacharelado em Tecnologia da Informação pela UNIVESP e minhas experiências com ferramentas de tecnologia aplicadas ao mercado real.
 
 ## 🛠️ Aplicação Prática Atual (Case Real)
-Recentemente, utilizei Engenharia de Prompts com IA (Gemini) para otimizar e estruturar uma proposta técnica de **projeto luminotécnico** para um cliente real da minha empresa, a **Resolve Soluções**.
+Recentemente, utilizei Engenharia de Prompts com IA (Gemini) para otimizar e estruturar uma proposta técnica de **projeto luminotécnico** para um cliente real da minha empresa, a [Resolve Soluções](https://resolvesolucao.com.br)
 
 ### Resultados:
 * Agilidade na elaboração da proposta comercial.
